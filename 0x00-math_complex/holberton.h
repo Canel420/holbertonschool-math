@@ -2,7 +2,6 @@
 #define HOLBERTON_H
 
 #include <stdio.h>
-#include <math.h>
 
 /**
  * struct complex - Structure for complex numbers
